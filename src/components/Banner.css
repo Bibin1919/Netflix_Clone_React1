@@ -1,0 +1,22 @@
+.banner{
+    margin-top: 0;
+    height: 500px;
+}
+
+.banner_text{
+
+    padding-top:250px;
+    padding-left: 3%;
+    background: none;
+}
+
+.banner_title{
+    background: none;
+    font-weight:800;
+}
+
+.banner_overview{
+    background: none;
+    width: 70%;
+    font-weight: 300;
+}

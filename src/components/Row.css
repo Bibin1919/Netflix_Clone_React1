@@ -1,0 +1,20 @@
+.row{
+    margin-left:10px;
+}
+.movies_row{
+    display: flex;
+    overflow-x: scroll;
+    height: 150px;
+    margin-top: 0;
+}
+.movie{
+    margin-right: 13px;
+    transition: transform ease-in-out 500ms;
+}
+
+.movie:hover{
+    transform: scale(1.10);
+}
+.poster{
+    max-height: 250px;
+}
